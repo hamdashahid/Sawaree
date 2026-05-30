@@ -1,8 +1,8 @@
-# 🚀 GoMatch – Your Smart Ride Companion
+# 🚀 Sawaree – Your Smart Ride Companion
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?style=flat-square&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-2.0-blue?style=flat-square&logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?style=flat-square&logo=firebase)
 
-GoMatch is a **Flutter-based ride-hailing app** designed for both **passengers and drivers**, enabling seamless ride bookings, vehicle registration, real-time tracking, and secure payments. Integrated with **Google Maps, Firebase, and Provider**, GoMatch ensures a smooth and efficient experience.
+Sawaree is a **Flutter-based ride-hailing app** designed for both **passengers and drivers**, enabling seamless ride bookings, vehicle registration, real-time tracking, and secure payments. Integrated with **Google Maps, Firebase, and Provider**, GoMatch ensures a smooth and efficient experience.
 
 ---
 
@@ -85,8 +85,8 @@ GoMatch is a **Flutter-based ride-hailing app** designed for both **passengers a
 
 ### 📥 **Clone the Repository**
 ```sh
-git clone https://github.com/hamdashahid/GoMatch.git
-cd GoMatch
+git clone https://github.com/hamdashahid/Sawaree.git
+cd Sawaree
 ```
 
 ### 🚀 **Run the App**
@@ -104,7 +104,7 @@ cd GoMatch
 ---
 
 ## 📜 **License & Copyright**
-© 2024 GoMatch. All rights reserved.
+© 2024 Sawaree. All rights reserved.
 
 ---
 
