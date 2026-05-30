@@ -72,7 +72,7 @@ GoMatch is a **Flutter-based ride-hailing app** designed for both **passengers a
 ---
 
 ## 📥 Download GoMatch APK  
-🚀 [Click here to download](https://github.com/hamdashahid/GoMatch/releases/latest)  
+🚀 [Click here to download](https://github.com/hamdashahid/Sawaree/releases/download/v1.0.0/app-release.apk)  
 
 ---
 
